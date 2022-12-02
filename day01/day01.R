@@ -1,6 +1,4 @@
-library(here)
-
-input <- readLines(here('day1',"input01.txt"))
+input <- readLines(here('day01',"input01.txt"))
 
 w <- c(0,which(input==""))
 
