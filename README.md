@@ -12,7 +12,7 @@ This is my solutions in R :
 | [Day 1](day01) | :star::star: |
 | [Day 2](day02) | :star::star: | 
 | [Day 3](day03) | :star::star: | 
-| Day 4          |      |
+| [Day 4](day04) | :star::star: |
 | Day 5          |      |  
 | Day 6          |      |  
 | Day 7          |      |  
